@@ -1,10 +1,10 @@
 # Clear Dawn
-Atom's iconic One Dark theme, and one of the most downloaded themes for VS Code.
+A desaturated, high contrast, light theme.
 
-[GitHub repository](https://github.com/ivanhernandez/Clear-Dawn)
+[GitHub repository](https://github.com/ivanhernandez/theme-clear-dawn)
 
 # CHANGELOG
-[CHANGELOG.MD](https://github.com/ivanhernandez/Clear-Down/blob/master/CHANGELOG.md)
+[CHANGELOG.MD](https://github.com/ivanhernandez/theme-clear-dawn/blob/master/CHANGELOG.md)
 
 # Tweaks
 If you would like to play around with new colors, use the setting `workbench.colorCustomizations` to customize the currently selected theme.
@@ -21,10 +21,14 @@ For example, you can add this snippet in your "settings.json" file:
 ```
 
 # ScreenShot
-![ScreenShot](https://raw.githubusercontent.com/Binaryify/OneDark-Pro/master/static/screenshot1.png)
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn/master/screenshots/sc1.png)
 
-![ScreenShot](https://raw.githubusercontent.com/Binaryify/OneDark-Pro/master/static/screenshot2.png)
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn/master/screenshots/sc2.png)
 
-![ScreenShot](https://raw.githubusercontent.com/Binaryify/OneDark-Pro/master/static/js.png)
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn/master/screenshots/sc3.png)
 
-![ScreenShot](https://raw.githubusercontent.com/Binaryify/OneDark-Pro/master/static/cpp.png)
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn/master/screenshots/sc4.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn/master/screenshots/sc5.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn/master/screenshots/sc6.png)
