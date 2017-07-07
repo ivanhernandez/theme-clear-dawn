@@ -5,23 +5,22 @@
     "name": "Clear Dawn",
     "publisher": "ivanhernandez",
     "description": "A desaturated, high contrast, light theme",
+    "license": "SEE LICENSE IN License.md",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
     "targets": [{
         "id": "Microsoft.VisualStudio.Services"
     }],
     "icons": {
-        "default": "images/fabrikam-logo.png"
+        "default": "logo.png"
     },
-    "scopes": [
-        "vso.work",
-        "vso.code_write",
-        "vso.build_execute"
-    ],
     "categories": [
-        "Plan and track"
+        "Themes"
     ],
     "branding": {
-        "color": "rgb(34, 34, 34)",
-        "theme": "dark"
+        "color": "rgb(254, 246, 240)",
+        "theme": "light"
     },
     "content": {
         "details": {
@@ -31,38 +30,8 @@
             "path": "LICENSE.txt"
         }
     },
-    "links": {
-        "getstarted": {
-            "uri": "https://www.fabrikam-fiber-inc.com/help/getstarted"
-        },
-        "support": {
-            "uri": "https://www.fabrikam-fiber-inc.com/support"
-        }
-    },
     "repository": {
         "type": "git",
-        "uri": "https://github.com/fabrikam-fiber-inc/myextension"
-    },
-    "contributions": [{
-        "id": "showCommits",
-        "type": "ms.vss-web.action",
-        "description": "Adds a menu action from builds grid to show associated items.",
-        "targets": [
-            "ms.vss-build-web.completed-build-menu"
-        ],
-        "properties": {
-            "title": "View associated items",
-            "uri": "launch.html"
-        }
-    }],
-    "files": [{
-            "path": "launch.html",
-            "addressable": true
-        },
-        {
-            "path": "node_modules/vss-web-extension-sdk/lib",
-            "addressable": true,
-            "packagePath": "lib"
-        }
-    ]
+        "uri": "https://github.com/ivanhernandez/theme-clear-dawn"
+    }
 }
