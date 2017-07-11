@@ -2,16 +2,22 @@
     "name": "theme-clear-dawn",
     "displayName": "Clear Dawn",
     "description": "A desaturated, high contrast, light theme",
-    "categories": ["Themes"],
-    "version": "0.1.1",
+    "categories": [
+        "Themes"
+    ],
+    "version": "0.2.0",
     "publisher": "ivanhernandez",
-    "engines": { "vscode": "*" },
+    "engines": {
+        "vscode": "*"
+    },
     "contributes": {
-        "themes": [{
-            "id": "Clear Dawn",
-            "label": "Clear Dawn",
-            "uiTheme": "vs",
-            "path": "./themes/clear_dawn.json"
-        }]
+        "themes": [
+            {
+                "id": "Clear Dawn",
+                "label": "Clear Dawn",
+                "uiTheme": "vs",
+                "path": "./themes/clear_dawn.json"
+            }
+        ]
     }
 }
