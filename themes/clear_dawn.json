@@ -10,7 +10,7 @@
         "button.foreground": "#FEF6F0", //rgb(254, 246, 240)
         "button.hoverBackground": "#D08030", //rgb(208, 128, 48)
         "descriptionForeground": "#D08030", //rgb(208, 128, 48)
-        "foreground": "#FAF4F0", //rgb(250, 244, 240)
+        "foreground": "#715141", //rgb(113, 81, 65)
 
         "editor.background": "#FAF4F0", //rgb(250, 244, 240)
         "editor.foreground": "#100800", //rgb(16, 8, 0)
