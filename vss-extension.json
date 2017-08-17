@@ -1,10 +1,10 @@
 {
     "manifestVersion": 1,
     "id": "theme-clear-dawn",
-    "version": "0.2.1",
+    "version": "0.3.1",
     "name": "Clear Dawn",
     "publisher": "ivanhernandez",
-    "description": "A desaturated, high contrast, light theme",
+    "description": "A desaturated, high contrast, light theme (and dark variant)",
     "license": "SEE LICENSE IN License.md",
     "engines": {
         "vscode": "^1.13.0"
