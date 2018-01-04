@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "theme-clear-dawn",
-    "version": "0.3.1",
+    "version": "0.6.0",
     "name": "Clear Dawn",
     "publisher": "ivanhernandez",
     "description": "A desaturated, high contrast, light theme (and dark variant)",

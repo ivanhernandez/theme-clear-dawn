@@ -1,5 +1,5 @@
 # Clear Dawn
-A desaturated, high contrast, light theme.
+A desaturated, high contrast, light theme (and a dark variant)
 
 [GitHub repository](https://github.com/ivanhernandez/theme-clear-dawn)
 

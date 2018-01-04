@@ -3,7 +3,7 @@
     "displayName": "Clear Dawn",
     "description": "A desaturated, high contrast, light theme (and a dark variant)",
     "categories": ["Themes"],
-    "version": "0.3.1",
+    "version": "0.6.0",
     "publisher": "ivanhernandez",
     "engines": { "vscode": "*" },
     "contributes": {
@@ -12,6 +12,12 @@
                 "label": "Clear Dawn",
                 "uiTheme": "vs",
                 "path": "./themes/clear_dawn.json"
+            },
+            {
+                "id": "Clear Dawn Inks",
+                "label": "Clear Dawn Inks",
+                "uiTheme": "vs",
+                "path": "./themes/clear_dawn_inks.json"
             },
             {
                 "id": "Clear Dawn Dark",
