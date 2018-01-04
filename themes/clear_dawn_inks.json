@@ -133,7 +133,7 @@
                 "entity.other.attribute-name.scss"
             ],
             "settings": {
-                "foreground": "#324375", //rgb(97, 113, 161)
+                "foreground": "#324375" //rgb(97, 113, 161)
             }
         },
         {

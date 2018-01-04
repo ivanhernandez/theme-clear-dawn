@@ -1,9 +1,9 @@
 {
     "name": "theme-clear-dawn",
     "displayName": "Clear Dawn",
-    "description": "A desaturated, high contrast, light theme (and a dark variant)",
+    "description": "A desaturated, high contrast, light theme",
     "categories": ["Themes"],
-    "version": "0.6.1",
+    "version": "0.6.2",
     "publisher": "ivanhernandez",
     "engines": { "vscode": "*" },
     "contributes": {
@@ -18,12 +18,6 @@
                 "label": "Clear Dawn Inks",
                 "uiTheme": "vs",
                 "path": "./themes/clear_dawn_inks.json"
-            },
-            {
-                "id": "Clear Dawn Dark",
-                "label": "Clear Dawn Dark",
-                "uiTheme": "vs",
-                "path": "./themes/clear_dawn_dark.json"
             }
         ]
     }
