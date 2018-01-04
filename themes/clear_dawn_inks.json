@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Clear Dawn",
+    "name": "Clear Dawn Inks",
     "colors": {
         "editor.lineHighlightBackground": "#FFFDFA",
         "editor.lineHighlightBorder": "#FFF",
