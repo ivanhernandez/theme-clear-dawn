@@ -3,7 +3,7 @@
     "displayName": "Clear Dawn",
     "description": "A desaturated, high contrast, light theme",
     "categories": ["Themes"],
-    "version": "0.6.2",
+    "version": "0.8.1",
     "publisher": "ivanhernandez",
     "engines": { "vscode": "*" },
     "contributes": {
