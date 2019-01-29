@@ -1,10 +1,14 @@
 # Clear Dawn
-A desaturated, high contrast, light theme (and a dark variant)
+A desaturated, high contrast, light theme (and dark variants)
 
 [GitHub repository](https://github.com/ivanhernandez/theme-clear-dawn)
 
 # CHANGELOG
 [CHANGELOG.MD](https://github.com/ivanhernandez/theme-clear-dawn/blob/master/CHANGELOG.md)
+
+# Dark variants
+
+Look at [Clear Dawn Dark](https://github.com/ivanhernandez/theme-clear-dawn-dark) repo.
 
 # Tweaks
 If you would like to play around with new colors, use the setting `workbench.colorCustomizations` to customize the currently selected theme.
