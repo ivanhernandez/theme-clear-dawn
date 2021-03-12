@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "theme-clear-dawn",
-    "version": "1.0.0",
+    "version": "1.2.1",
     "name": "Clear Dawn",
     "publisher": "ivanhernandez",
     "description": "A desaturated, high contrast, light theme",
@@ -24,7 +24,7 @@
     },
     "content": {
         "details": {
-            "path": "readme.md"
+            "path": "README.md"
         },
         "license": {
             "path": "LICENSE.txt"

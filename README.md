@@ -6,7 +6,6 @@ Specifically crafted for XML, HTML, CSS, C#, Typescript, Flutter(Dart),JSON, Yam
 Supports italics (*Inks* variant remains without them) and works great with [VsCodeVim](https://github.com/VSCodeVim/Vim) cursors.
 Best viewed with [Victor Mono](https://rubjo.github.io/victor-mono/) font.
 
-
 [GitHub repository](https://github.com/ivanhernandez/theme-clear-dawn)
 
 # CHANGELOG

@@ -1,13 +1,14 @@
 {
     "name": "theme-clear-dawn",
     "displayName": "Clear Dawn",
-    "repository": {"type": "git", "url": "https://github.com/ivanhernandez/theme-clear-dawn-dark"},
-    "bugs": {"url": "https://github.com/ivanhernandez/theme-clear-dawn-dark/issues", "email": "ivanhernandez.ihv@gmail.com" },
+    "repository": {"type": "git", "url": "https://github.com/ivanhernandez/theme-clear-dawn"},
+    "bugs": {"url": "https://github.com/ivanhernandez/theme-clear-dawn/issues", "email": "ivanhernandez.ihv@gmail.com" },
     "license": "See license in LICENSE.txt",
     "author": { "name": "Iván Hernández Valmisa" },
     "description": "A desaturated, high contrast, light theme",
+    "icon": "logo.png",
     "categories": ["Themes"],
-    "version": "1.0.0",
+    "version": "1.2.1",
     "publisher": "ivanhernandez",
     "engines": { "vscode": "*" },
     "contributes": {
