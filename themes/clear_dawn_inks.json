@@ -21,6 +21,7 @@
         "editor.inactiveSelectionBackground": "#EBF0F8", //rgb(235, 240, 248)
         "editor.selectionHighlightBackground": "#EBF0F8", //rgb(235, 240, 248)
         "editorCursor.foreground": "#D08030", //rgb(208, 128, 48)
+        "editorCursor.background": "#ffeedd",
         "editorIndentGuide.background": "#D3D3D3", //rgb(211, 211, 211)
         "editorSuggestWidget.background": "#F3F3F3", //rgb(243, 243, 243)
 
@@ -544,6 +545,50 @@
             ],
             "settings": {
                 "foreground": "#53628d" //rgb(97, 113, 161)
+            }
+        },
+        {
+            "scope": [
+                "text.html.markdown.journal.task.open.bullet",
+                "text.html.markdown.journal.task.open.marker",
+            ],
+            "settings": {
+                "foreground": "#FFFF00"
+            }
+        },
+        {
+            "scope": [
+                "text.html.markdown.journal.task.open.keyword",
+                "text.html.markdown.journal.task.completed.keyword",
+                "text.html.markdown.journal.memo.keyword",
+                "text.html.markdown.journal.link.keyword"
+            ],
+            "settings": {
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "text.html.markdown.journal.task.open.text",
+            "settings": {}
+        },
+        {
+            "scope": [
+                "text.html.markdown.journal.task.completed.marker",
+                "text.html.markdown.journal.task.completed.text"
+            ],
+            "settings": {
+                "foreground": "#AAAAAA"
+            }
+        },
+        {
+            "scope": [
+                "text.html.markdown.journal.task.completed.bullet",
+                "text.html.markdown.journal.memo.bullet",
+                "text.html.markdown.journal.scope",
+                "text.html.markdown.journal.link.bullet"
+            ],
+            "settings": {
+                "foreground": "#CCCC00"
             }
         }
     ]

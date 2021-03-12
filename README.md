@@ -1,5 +1,11 @@
 # Clear Dawn
-A desaturated, high contrast, light theme (and dark variants)
+A desaturated, high contrast, light theme.
+
+Specifically crafted for XML, HTML, CSS, C#, Typescript, Flutter(Dart),JSON, Yaml, Markdown, Go and Rust best development experience.
+
+Supports italics (*Inks* variant remains without them) and works great with [VsCodeVim](https://github.com/VSCodeVim/Vim) cursors.
+Best viewed with [Victor Mono](https://rubjo.github.io/victor-mono/) font.
+
 
 [GitHub repository](https://github.com/ivanhernandez/theme-clear-dawn)
 
